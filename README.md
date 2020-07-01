@@ -4,15 +4,15 @@
 <img src="https://github.com/wareares/ss/blob/master/Screenshot_20191017-001230_Termux.jpg"/>
 <br><br>
 <h3>Installing</h3><br>
-```
 
+```
 $ pkg install git<br>
 $ pkg install curl<br>
 $ git clone https://github.com/Mr-XsZ/Dark-Fb<br>
 $ cd Dark-Fb<br>
 $ bash install.sh<br><br>
-
 ```
+
 <h1>Menu Tools</h1><br>
 <img src="https://github.com/wareares/ss/blob/master/Screenshot_20191022-093414_Termux-picsay.jpg"/>
 <br><h1>Account Checker</h1><br>
